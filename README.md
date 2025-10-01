@@ -4,3 +4,5 @@
 texto
 
 *Italic*
+
+__bold__
